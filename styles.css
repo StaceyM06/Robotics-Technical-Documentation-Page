@@ -74,7 +74,18 @@ p {
 }
 
 section li {
-  margin: 15px 0px 0px 20px;
+    margin: 15px 0px 0px 20px;
+}
+
+#example-code {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+#example-code h6 {
+    font-size: 15px;
+    text-align: left;
 }
 
 @media only screen and (max-width: 815px) {
